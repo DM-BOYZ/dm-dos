@@ -1,10 +1,10 @@
 import os
 
-Hello guys
-Assalamu Alaikum
-I'm 
+prit("Hello guys")
+print("Assalamu Alaikum")
+print("I am")
 os.system("figlet RAHAT")
-from Bangladesh Spammer & Hacker Boy's'
+print("from Bangladesh Spammer & Hacker Boys")
 os.system("figlet JOY DA") CEO
 os.system("figlet MAMUN VAI") SENIOR ADMIN
 os.system("figlet RAJ VAI") ALL BOX LEADER
