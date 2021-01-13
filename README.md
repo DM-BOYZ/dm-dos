@@ -1,17 +1,12 @@
-# ddos-boss
-apt update
-apt upgrade
-apt install git
-apt install python
-apt install python2
-apt install python3
-pip2 install requests
-pip2 install mechanize
-git clone https://github.com/rahat-vau/ddos-boss.git
-ls
-cd ddos-boss
-ls
-chmod +x *
-ls
-python2 ddos-boss.py
-now enjoy
+#dm-dos
+#include<stdio.h>
+int main()
+{
+int names;
+1st=Rahat;
+2nd=Rashad;
+int result;
+result=1st+2nd;
+printf("1st+2nd= %d",&names);
+return 0;
+}
