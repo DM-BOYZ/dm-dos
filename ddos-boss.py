@@ -19,9 +19,30 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet ddos-boss")
+# Variables
+b='\033[1m'
+u='\033[4m'
+bl='\E[30m'
+r='\E[31m'
+g='\E[32m'
+bu='\E[34m'
+m='\E[35m'
+c='\E[36m'
+w='\E[37m'
+endc='\E[0m'
+enda='\033[0m'
+blue='\e[1;34m'
+cyan='\e[1;36m'
+red='\e[1;31m'
 
-
-
+echo -b "_____________________________________________________________" | lolcat
+echo -b "TYPE      : DM-TOOLS $green " |lolcat
+echo -b "VERSION   : V.1 " | lolcat
+echo -b "TOTALS    : Dm-dos " | lolcat
+echo -b "AUTHOR    : DM $green " |lolcat
+echo -b "ASSOCIATE : DM-BOYZ $green " |lolcat
+echo -b "NOTES     : DON'T USE THIS AT CRIME. " | lolcat
+echo -b "_____________________________________________________________" | lolcat
 
 
 
